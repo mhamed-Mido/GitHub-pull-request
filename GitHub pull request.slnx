@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="GitHub pull request/GitHub pull request.vcxproj" />
+  <Project Path="GitHub pull request/GitHub pull request.vcxproj" Id="055cbf6b-4a2e-44f0-9416-ed04903878f5" />
 </Solution>
